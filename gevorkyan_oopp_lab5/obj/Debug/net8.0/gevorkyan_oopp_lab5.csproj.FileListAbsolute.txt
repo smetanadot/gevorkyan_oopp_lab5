@@ -1,0 +1,14 @@
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\bin\Debug\net8.0\gevorkyan_oopp_lab5.exe
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\bin\Debug\net8.0\gevorkyan_oopp_lab5.deps.json
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\bin\Debug\net8.0\gevorkyan_oopp_lab5.runtimeconfig.json
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\bin\Debug\net8.0\gevorkyan_oopp_lab5.dll
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\bin\Debug\net8.0\gevorkyan_oopp_lab5.pdb
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\obj\Debug\net8.0\gevorkyan_oopp_lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\obj\Debug\net8.0\gevorkyan_oopp_lab5.AssemblyInfoInputs.cache
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\obj\Debug\net8.0\gevorkyan_oopp_lab5.AssemblyInfo.cs
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\obj\Debug\net8.0\gevorkyan_oopp_lab5.csproj.CoreCompileInputs.cache
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\obj\Debug\net8.0\gevorkyan_oopp_lab5.dll
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\obj\Debug\net8.0\refint\gevorkyan_oopp_lab5.dll
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\obj\Debug\net8.0\gevorkyan_oopp_lab5.pdb
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\obj\Debug\net8.0\gevorkyan_oopp_lab5.genruntimeconfig.cache
+C:\Users\SMETANA\source\repos\gevorkyan_oopp_lab5\gevorkyan_oopp_lab5\obj\Debug\net8.0\ref\gevorkyan_oopp_lab5.dll

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Group xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>ac-23-05</GroupName>
+  <Students>
+    <StudentId>1</StudentId>
+    <StudentName>Кирилл</StudentName>
+    <StudentSurname>Сметана</StudentSurname>
+    <StudentAge>20</StudentAge>
+    <StudentGroup>ac-23-05</StudentGroup>
+  </Students>
+  <Students xsi:type="Headman">
+    <StudentId>2</StudentId>
+    <StudentName>Мария</StudentName>
+    <StudentSurname>Васильева</StudentSurname>
+    <StudentAge>21</StudentAge>
+    <StudentGroup>ac-23-05</StudentGroup>
+    <PhoneNumber>7999</PhoneNumber>
+  </Students>
+  <NextId>3</NextId>
+</Group>
